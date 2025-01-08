@@ -2,4 +2,4 @@
 - 👀 I’m interested in biomedical engineering
 - 🌱 I’m currently learning electronic engineering at Universidade Federal de Santa Catarina (Brazil)
 - 💞️ I’m looking to collaborate on risk management of medical devices
-- 📫 You can reach me by e-mil: alves-cleber@hotmail.com
+- 📫 You can reach me by e-mail: alves-cleber@hotmail.com
